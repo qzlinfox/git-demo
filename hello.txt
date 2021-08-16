@@ -2,3 +2,4 @@
 增加新成员
 添加新功能---by userqzl
 qzlfox新增功能
+merge test
